@@ -1,0 +1,18 @@
+.App{
+   background-image: url('./background.jpg');
+   background-repeat: no-repeat;
+   background-size: cover;
+   height: 663px;
+}
+
+#hide{
+    visibility: hidden;
+    color: red;
+    font-size: 24px;
+}
+
+#msghide{
+    visibility: hidden;
+    color: green;
+    font-size: 24px;
+}
